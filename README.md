@@ -1,2 +1,7 @@
-# GAN-Project
-GAN Project
+# Create Animated Character based on CGAN
+
+## Data
+
+## Network
+
+## Performance
