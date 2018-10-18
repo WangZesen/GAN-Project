@@ -14,3 +14,8 @@ Discriminator
 
 ## Performance
 
+Good Results
+![generator](figures/success.png)
+
+Bad Results
+![generator](figures/success.png)
