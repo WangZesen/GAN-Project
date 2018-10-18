@@ -23,3 +23,6 @@ Good Results
 Bad Results
 
 ![generator](figures/fail.png)
+
+Label Accuracy
+
