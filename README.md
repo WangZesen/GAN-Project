@@ -6,4 +6,11 @@ The dataset we used is the open-source dataset used in [twinGAN](https://github.
 
 ## Network
 
+Generator
+![generator](figures/gen.png)
+
+Discriminator
+![discriminator](figures/dis.png)
+
 ## Performance
+
