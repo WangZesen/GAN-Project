@@ -22,7 +22,7 @@ Discriminator
 
 ## Loss
 
-
+<a href="http://www.codecogs.com/eqnedit.php?latex=a=2^{3^4}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?a=2^{3^4}" title="a=2^{3^4}" /></a>
 
 ## Feature
 
