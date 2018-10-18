@@ -20,10 +20,16 @@ Discriminator
 
 ![discriminator](figures/dis.png)
 
+## Loss
+
+
+
 ## Feature
 
-- lala
-- xixi
+- Residual Block
+- Pixel Shuffler
+- Features from Multiple Stages
+- Negative Samples
 
 ## Train
 
