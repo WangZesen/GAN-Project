@@ -20,6 +20,11 @@ Discriminator
 
 ![discriminator](figures/dis.png)
 
+## Feature
+
+- lala
+- xixi
+
 ## Train
 
 The experiment sets batch size as 20, initial learning rate as 2e-4 for both generator and discriminator, max epoch as 80000. Both generator and discriminator are trained by Adam optimizer.
