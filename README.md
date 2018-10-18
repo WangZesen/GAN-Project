@@ -1,4 +1,4 @@
-# Generate Animated Character based on CGAN (DD2424)
+# Generate Animated Character Based on CGAN (DD2424)
 
 ## Introduction
 
