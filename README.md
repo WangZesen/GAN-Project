@@ -1,4 +1,5 @@
-# Create Animated Character based on CGAN
+# Create Animated Character based on CGAN 
+# (Deep Learning Course Project)
 
 ## Introduction
 
