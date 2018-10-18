@@ -44,11 +44,15 @@ The experiment sets batch size as 20, initial learning rate as 2e-4 for both gen
 
 Good Results
 
-![generator](figures/success.png)
+![succ](figures/success.png)
 
 Bad Results
 
-![generator](figures/fail.png)
+![fail](figures/fail.png)
+
+Interpolation between two samples
+
+![interpolation](figures/interpolation.png)
 
 Label Accuracy
 
