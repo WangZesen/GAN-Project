@@ -26,6 +26,7 @@ Discriminator
 
 ## Feature
 
+- WGAN
 - Residual Block
 - Pixel Shuffler
 - Features from Multiple Stages
