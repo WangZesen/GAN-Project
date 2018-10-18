@@ -2,7 +2,7 @@
 
 ## Data
 
-The dataset we used is the open-source dataset used in twinGAN(https://www.google.com)
+The dataset we used is the open-source dataset used in [twinGAN](https://github.com/jerryli27/TwinGAN). The dataset contains more than 20k images, and each image is labeled with 51 possible tags.
 
 ## Network
 
